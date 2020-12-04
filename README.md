@@ -8,4 +8,4 @@ J'ai l'intention de réunir toutes mes forces pour être un Développeur polyval
 
 Je suis passionné par le développement, je suis curieux 🔍 et j'aime apprendre des nouvelles choses qui pourraient m'apporter dans mon évolution professionnelle comme personnelle 👾
 
-Un métier n'est jamais acquis, pour un développeur tout est une question de temps 🕗 La clé 🔑 C'est d'être embraser 🔥 par l'envie d'apprendre 📄📚
+Un métier n'est jamais acquis, pour un développeur tout est une question de temps 🕗 La clé 🔑 C'est d'être embrasé 🔥 par l'envie d'apprendre 📄📚
