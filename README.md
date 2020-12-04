@@ -1,4 +1,4 @@
-<img href="https://github.com/YoannGenique/YoannGenique/blob/main/fond.png" alt="" height="600px" widht="800px">
+<img href="https://github.com/YoannGenique/YoannGenique/blob/main/fond.jpg" alt="" height="600px" widht="800px">
 
 ## 🥇 Qui suis-je ? 🕹️
 
